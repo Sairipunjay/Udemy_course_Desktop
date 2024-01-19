@@ -1,0 +1,54 @@
+#loginForm {
+    text-align: center;
+   
+}
+#uname {
+    color: black;
+    background-color: lightgoldenrodyellow;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+    border-radius: 40px;
+    border-color: brown;
+    border-style: double;
+}
+#pwd {
+    color: black;
+    background-color: lightblue;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+    border-radius: 40px;
+    border-color: brown;
+    border-style: double;
+}
+#btn-submit {
+    color: black;
+    background-color: lightgreen;
+    font-size: 20px;
+    padding: 10px 15px 10px 15px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: inherit;
+    border-radius: 40px;
+    border-color: brown;
+    border-style: double;
+}
+#unameErr {
+    display: none;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 1px;
+    margin-top: 0 px;
+    margin-bottom: 25px;
+}
